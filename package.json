@@ -1,0 +1,19 @@
+{
+  "name": "snake-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build --dist-dir public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}

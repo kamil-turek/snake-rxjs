@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{height:100vh;width:100vw;color:#fff;background:#777;padding:2rem;font-family:sans-serif}.container{flex-direction:column;align-items:center;gap:1rem;display:flex}.main-area{width:60vw;height:75vh;flex-direction:column;gap:1rem;display:flex}#canvas{width:100%;height:100%}.btn{cursor:pointer;text-transform:uppercase;background:#fff;border:none;align-self:flex-end;padding:1rem 2rem;font-weight:700}
+/*# sourceMappingURL=index.f896ce94.css.map */
